@@ -1,7 +1,7 @@
 <div align="center">
 
-# مرحباً بك في ملفي التعريفي 👋
-### **لمى أحمد** | Front-End Web Developer
+# Hello, I'm Lama Ahmed 👋 ✨
+### **Front-End Web Developer** | Crafting Seamless Digital Experiences
 
 <p align="center">
   <a href="https://github.com/حسابك_على_جيت_هب"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
@@ -11,24 +11,25 @@
 
 ---
 
-مطورة واجهات أمامية متخصصة في هندسة وتطوير تطبيقات الويب التفاعلية. أكرس جهدي لتوظيف المعرفة التقنية في تحويل التصاميم الرقمية إلى تجارب مستخدم استثنائية تتميز بسلاسة الأداء، الدقة العالية، والتجاوب التام مع مختلف الشاشات. أؤمن بأن كتابة الكود النظيف والمنظم هي الأساس في بناء حلول برمجية قابلة للتطوير والاستدامة.
+### 🌟 Professional Summary
+Passionate **Front-End Web Developer** dedicated to transforming architectural designs and complex concepts into high-performance, responsive, and visually captivating web applications. I specialize in writing clean, scalable, and maintainable code, ensuring that every user interaction is smooth, intuitive, and meticulously optimized across all modern devices and screen sizes.
 
 <br/>
 
-<img align="left" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="350px"/>
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="350px"/>
 
-### 💼 نبذة مهنية ومجالات التركيز:
+### 💼 Core Expertise & Current Focus
 
-*   **تطوير الأنظمة البرمجية:** بناء وتطوير تطبيقات ويب تفاعلية متكاملة، تتضمن أنظمة إدارة بيانات محلية (CRUD Systems) مدعومة بآليات التخزين المتقدمة.
-*   **هندسة الواجهات وتصميمها:** تصميم واجهات متجاوبة (Responsive Interfaces) باستخدام المعايير الحديثة للـ CSS لتوفير تجربة مستخدم مثالية.
-*   **التكامل البرمجي (API Integration):** تنفيذ طلبات غير متزامنة (Asynchronous JavaScript) وربط المنصات بالخدمات الخارجية (APIs) لضمان انسيابية البيانات.
-*   **التواصل والفرص المتاحة:** منفتحة على التعاون في المشاريع البرمجية المبتكرة ومشاركة الخبرات التقنية.
+*   **Front-End Engineering:** Developing robust dynamic web applications and feature-rich CRUD management systems integrated with efficient local storage solutions.
+*   **Responsive UI/UX Design:** Leveraging advanced CSS architectures including Flexbox, precise Media Queries, and structural pseudo-elements to engineer fluid layouts.
+*   **Asynchronous JavaScript & APIs:** Implementing asynchronous operations (`Promises`, `Async/Await`), utilizing `Fetch` and `Axios` libraries, and integrating third-party REST APIs (such as TVMaze and CoinGecko) for real-time data handling.
+*   **Collaboration & Growth:** Actively expanding technical boundaries, exploring modern frameworks, and open to collaborating on innovative open-source web projects.
 
 <br/><br/>
 
-### 🛠️ المهارات والأدوات التقنية:
+### 🛠️ Tech Stack & Development Tools
 
-<div align="right" dir="ltr">
+<div align="left">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
   <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />
@@ -39,3 +40,5 @@
 
 ---
 <div align="center">
+  <i>"Clean code always looks like it was written by someone who cares."</i>
+</div>
