@@ -2,7 +2,6 @@
 
 # Hi there, I'm Lama Ahmed 👋 
 ### **Front-End Architect & Web Developer**
-
 <p align="center">
   <a href="mailto:lama9122005@gmail.com"><img src="https://img.shields.io/badge/Get_In_Touch-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
   <a href="https://linkedin.com" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
