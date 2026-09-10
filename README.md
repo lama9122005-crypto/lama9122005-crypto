@@ -47,19 +47,6 @@ I am a results-driven **Front-End Developer** dedicated to building high-perform
 
 ---
 
-### 📊 GitHub Metrics
-
 <div align="center">
-  <p>
-    <img src="https://github-readme-stats.vercel.app/api?username=lama9122005&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117" alt="Lama's GitHub Stats" />
-  </p>
-  <p>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lama9122005&layout=compact&theme=radical&hide_border=true&bg_color=0d1117" alt="Top Languages" />
-  </p>
-</div>
-
----
-
-<div align="center">
-  <i>"Simplicity is the soul of efficiency."</i>
+  <i>"Turning complex logic into seamless digital experiences."</i>
 </div>
