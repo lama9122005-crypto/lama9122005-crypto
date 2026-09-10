@@ -17,8 +17,8 @@
 
 ---
 
-### 🚀 About Me
-I am a results-driven **Front-End Developer** dedicated to building high-performance web applications through clean, scalable code. My approach combines rigorous software architecture with robust logic implementation, ensuring every digital product I build is fast, reliable, and exceptionally responsive across all platforms.
+### 🚀 نبذة عني
+أنا مُطوّرة واجهات أمامية ذات كفاءة عالية، أركز على تحقيق النتائج، وأسعى لبناء تطبيقات ويب عالية الأداء باستخدام أكواد برمجية نظيفة وقابلة للتطوير. يجمع منهجي بين هندسة برمجية دقيقة وتنفيذ منطقي متين، مما يضمن أن يكون كل منتج رقمي أقوم بتطويره سريعًا وموثوقًا وسريع الاستجابة على جميع المنصات.
 
 <br/>
 
